@@ -1,0 +1,28 @@
+#root {
+    -fx-background-color: #2D1362;
+}
+
+#information {
+    -fx-border-width: 0px 2px 0px 0px;
+    -fx-border-color: white;
+}
+
+#standardSeatPrice {
+    -fx-background-color: #2E58CD;
+    -fx-border-width: 1px;
+    -fx-border-color: white;
+}
+
+#backRowSeatPrice {
+    -fx-background-color: #2E58CD;
+    -fx-border-width: 1px;
+    -fx-border-color: white;
+}
+
+.button:disabled {
+    -fx-opacity: 1;
+}
+
+.seat:hover {
+    -fx-text-fill: #7fffd4;
+}
